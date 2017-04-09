@@ -2,7 +2,7 @@
 <body>
 <table>
 <tr>
-<td colspan="2">Delhi Metro Rail Website does not consist of certain things such as:= </td></tr>
+<td colspan="2">Delhi Metro Rail </td></tr>
 <tr><td>1.) Page Title</td><td> This website consists of 64 characters. The Page title should consist of 9 to 65 words.</td></tr>
 <tr><td>2.) Meta Description</td><td>The websites meta description length is 0 characters. 
 But most search engines will truncate meta descriptions to 160 characters. Try using more synonyms and unique keywords,

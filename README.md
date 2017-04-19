@@ -24,7 +24,10 @@ This can lead to slower than average load times, lost visitors, and decreased re
 <li>First, check the HTML code of your page and identify all style attributes.</li>
 <li>Then, for each style attribute found you must properly move all declarations in the external CSS file and remove the style attribute.</li></ul></td></tr>
 <tr><td>Social Media Check</td><td>Not found</td><td>Your website is not connected with social media using the API's provided by Facebook, Google +, Twitter, Pinterest, or using addthis.com </td><td>In order to pass this test you must connect your website with at least one major social network. To do that, you must insert into your page some social networks plugins: Facebook Like Button, Facebook Share Button, Facebook Comments, Twitter Button, Google +1 Button, Pinterest Button or AddThis Widget</td></tr>
-
+<tr><td>Google Analytics Test</td><td>Not found</td><td>The website is using an older version of Google Analytics.</td><td> To take advantage of the faster, asynchronous version of Google Analytics, you should upgrade your Google Analytics tracker code.</td></tr>
+<tr><td>Page Rank</td><td>Found</td><td>The page rank of this web page is 6.</td><td>The page rank of this web page is good. The higher the page rank, it is more likely to appear at the top of the search engine result.</td></tr>
+<tr><td>Underscores in Links Test	</td><td>Not found</td><td>The web page did not find any underscore URL links.</td><td>A link should not contain underscore but we should use dash(-) for a good link name.</td></tr>
+<tr><td>HTTPS Test</td><td>Not found</td><td>This website is not using https, a secure communication protocol.</td><td>It is important to use HTTPs as for sites that do not collect sensitive customer information, search engines suggest that switching to https is an increasingly good idea and may help improve rankings.</td></tr>
 </table> 
 </body>
 </html>
